@@ -1,0 +1,1 @@
+This is a simple linear regression model I wrote when learning pytorch. I learned a lot about the use of tensors, the training and the testing loop, how important it is to visualize data, and how to save and reload a model. I hope one day I look back at this project and see how rudimentary it was, but for now, this is quite cool too!
